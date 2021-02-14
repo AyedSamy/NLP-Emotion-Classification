@@ -20,4 +20,4 @@ Thus, we compared the performance of **Multinomial Naive Bayes** models to **Log
 
 Finally, the objective was to create an **end-to-end** Web Application: the Emotion Classifier allows us to make a new prediction, given a new input message.
 
-The App has been built with **Streamlit** and is available on **Heroku**
+The App has been built with **Streamlit** and is available on **Heroku** : https://nlp-emotion-classifier.herokuapp.com/
