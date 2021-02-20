@@ -16,7 +16,7 @@ Then, we compared **Bag-of-words** approach to **TF-IDF** (**CountVectorizer** /
 It was also important to define the **stopwords**, a list of words which couldn't help our models to make good predictions, because too common or too shared between different emotions in the dataset.
 
 To perform the classification, we used a selection of **Supervised Machine Learning** algorithms for **Natural Language Processing**.
-Thus, we compared the performance of **Multinomial Naive Bayes** models to **Logistic Regression** models, before and after **hyperparameter tuning** using Cross Validation and GridSearchCV.
+Thus, we compared the performance of **Multinomial Naive Bayes** models to **Logistic Regression** models, before and after **hyperparameter tuning** using Cross Validation / GridSearchCV.
 
 Finally, the objective was to create an **end-to-end** Web Application: the Emotion Classifier allows us to make a new prediction, given a new input message.
 
